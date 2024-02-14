@@ -1,0 +1,14 @@
+* TODO YESTERDAY
+** TODO Review Algorithmica
+* TODO TODAY
+** DONE INF237 contest
+** DONE Prepare talk
+** TODO Finish essay
+** TODO Assign reviews
+** TODO arxiv Corr Cluster
+** DONE Prepare CS curr gamma presentation(??)
+* TODO THIS WEEK
+** TODO work on inspection
+** TODO Decide on FCT
+** DONE Finish SDG
+* TODO THIS MONTH
