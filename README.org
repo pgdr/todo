@@ -7,9 +7,11 @@
 ** DONE Give talk uib pensjon
 ** TODO Make INF234 resit
 ** TODO Finish essay
-** DONE Submit arxiv Corr Cluster
+** TODO Read Corr Cluster
+** TODO Submit arxiv Corr Cluster
 * TOMORROW
 ** TODO Assign reviews
+** TODO Talk to MB Future
 * THIS WEEK
 ** TODO Research inspection
 ** TODO Decide on FCT
