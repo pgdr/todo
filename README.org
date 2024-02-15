@@ -15,7 +15,7 @@
 ** TODO Research inspection
 ** DONE Deliver AI quiz for SDG607
 * NEXT WEEK
-** TODO Prepare INF237
+** TODO Prepare INF237 (Dijstra's & MST)
 ** TODO Finish essay
 ** TODO Read siving proposal
 ** TODO Read CSC'23
