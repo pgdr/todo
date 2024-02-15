@@ -10,6 +10,8 @@
 ** DONE Make INF234 resit
 ** TODO Update INF234 resit
 * TOMORROW
+** TODO Meet with SS, VO, TB
+** TODO Mail EH
 ** TODO Assign reviews
 ** TODO Talk to MB Future
 * THIS WEEK
