@@ -1,15 +1,15 @@
 * YESTERDAY
 ** TODO Review Algorithmica
-** DONE INF237 contest
+** DONE Create INF237 contest
 ** DONE Prepare CS curr gamma presentation(??)
 * TODAY
 ** DONE Prepare talk
-** TODO INF234 resit
+** TODO Make INF234 resit
 ** TODO Finish essay
 ** TODO Assign reviews
-** DONE arxiv Corr Cluster
+** DONE Submit arxiv Corr Cluster
 * THIS WEEK
-** TODO work on inspection
+** TODO Research inspection
 ** TODO Decide on FCT
 ** DONE Deliver AI quiz for SDG607
 * THIS MONTH
