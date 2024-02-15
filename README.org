@@ -11,5 +11,5 @@
 * THIS WEEK
 ** TODO work on inspection
 ** TODO Decide on FCT
-** DONE Finish SDG
+** DONE Deliver AI quiz for SDG607
 * THIS MONTH
