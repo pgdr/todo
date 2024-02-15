@@ -5,9 +5,10 @@
 * TODAY
 ** DONE Prepare talk uib pensjon
 ** DONE Give talk uib pensjon
-** TODO Read Corr Cluster
-** TODO Submit arxiv Corr Cluster
-** TODO Make INF234 resit
+** DONE Read Corr Cluster
+** DONE Submit arxiv Corr Cluster
+** DONE Make INF234 resit
+** TODO Update INF234 resit
 * TOMORROW
 ** TODO Assign reviews
 ** TODO Talk to MB Future
@@ -15,7 +16,7 @@
 ** TODO Research inspection
 ** DONE Deliver AI quiz for SDG607
 * NEXT WEEK
-** TODO Prepare INF237 (Dijstra's & MST)
+** DONE Prepare INF237 (Dijstra's & MST)
 ** TODO Finish essay
 ** TODO Read siving proposal
 ** TODO Read CSC'23
