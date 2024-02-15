@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+
+set -e
+
+git add README.org
+git commit -m "~"
+git fetch
+git rebase
+git push
