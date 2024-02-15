@@ -1,13 +1,15 @@
-* YESTERDAY
+* YESTERDAY!
 ** TODO Review Algorithmica
 ** DONE Create INF237 contest
 ** DONE Prepare CS curr gamma presentation(??)
 * TODAY
-** DONE Prepare talk
+** DONE Prepare talk uib pensjon
+** DONE Give talk uib pensjon
 ** TODO Make INF234 resit
 ** TODO Finish essay
-** TODO Assign reviews
 ** DONE Submit arxiv Corr Cluster
+* TOMORROW
+** TODO Assign reviews
 * THIS WEEK
 ** TODO Research inspection
 ** TODO Decide on FCT
