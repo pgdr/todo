@@ -5,9 +5,9 @@
 * TODAY
 ** DONE Prepare talk uib pensjon
 ** DONE Give talk uib pensjon
-** TODO Make INF234 resit
 ** TODO Read Corr Cluster
 ** TODO Submit arxiv Corr Cluster
+** TODO Make INF234 resit
 * TOMORROW
 ** TODO Assign reviews
 ** TODO Talk to MB Future
