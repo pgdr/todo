@@ -5,7 +5,7 @@
 ** DONE Prepare talk
 ** TODO Finish essay
 ** TODO Assign reviews
-** TODO arxiv Corr Cluster
+** DONE arxiv Corr Cluster
 ** DONE Prepare CS curr gamma presentation(??)
 * THIS WEEK
 ** TODO work on inspection
