@@ -1,12 +1,13 @@
 * YESTERDAY
 ** TODO Review Algorithmica
-* TODAY
 ** DONE INF237 contest
+** DONE Prepare CS curr gamma presentation(??)
+* TODAY
 ** DONE Prepare talk
+** TODO INF234 resit
 ** TODO Finish essay
 ** TODO Assign reviews
 ** DONE arxiv Corr Cluster
-** DONE Prepare CS curr gamma presentation(??)
 * THIS WEEK
 ** TODO work on inspection
 ** TODO Decide on FCT
