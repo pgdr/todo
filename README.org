@@ -10,7 +10,7 @@
 * TODAY
 ** DONE Update INF234 resit
 ** TODO Meet with SS, VO, TB
-** TODO Mail EH
+** DONE Mail EH
 ** TODO Assign reviews
 ** TODO Talk to MB Future
 * TOMORROW
