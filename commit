@@ -3,7 +3,7 @@
 set -e
 
 git add README.org
-git commit -m "~"
+git commit -m "`date`"
 git fetch
 git rebase
 git push
