@@ -8,7 +8,7 @@
 ** DONE Submit arxiv Corr Cluster
 ** DONE Make INF234 resit
 * TODAY
-** TODO Update INF234 resit
+** DONE Update INF234 resit
 ** TODO Meet with SS, VO, TB
 ** TODO Mail EH
 ** TODO Assign reviews
