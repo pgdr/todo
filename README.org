@@ -9,11 +9,11 @@
 ** DONE Make INF234 resit
 * TODAY
 ** DONE Update INF234 resit
-** TODO Meet with SS, VO, TB
 ** DONE Mail EH
+* TOMORROW
 ** TODO Assign reviews
 ** TODO Talk to MB Future
-* TOMORROW
+** TODO Meet with SS, VO, TB
 * THIS WEEK
 ** TODO Research inspection
 ** DONE Deliver AI quiz for SDG607
