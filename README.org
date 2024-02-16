@@ -2,18 +2,18 @@
 ** TODO Review Algorithmica
 ** DONE Create INF237 contest
 ** DONE Prepare CS curr gamma presentation(??)
-* TODAY
 ** DONE Prepare talk uib pensjon
 ** DONE Give talk uib pensjon
 ** DONE Read Corr Cluster
 ** DONE Submit arxiv Corr Cluster
 ** DONE Make INF234 resit
+* TODAY
 ** TODO Update INF234 resit
-* TOMORROW
 ** TODO Meet with SS, VO, TB
 ** TODO Mail EH
 ** TODO Assign reviews
 ** TODO Talk to MB Future
+* TOMORROW
 * THIS WEEK
 ** TODO Research inspection
 ** DONE Deliver AI quiz for SDG607
