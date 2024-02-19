@@ -1,25 +1,17 @@
 * YESTERDAY!
 ** TODO Review Algorithmica
-** DONE Create INF237 contest
-** DONE Prepare CS curr gamma presentation(??)
-** DONE Prepare talk uib pensjon
-** DONE Give talk uib pensjon
-** DONE Read Corr Cluster
-** DONE Submit arxiv Corr Cluster
 ** DONE Make INF234 resit
 * TODAY
-** DONE Update INF234 resit
-** DONE Mail EH
-* TOMORROW
 ** TODO Assign reviews
+** TODO Finish essay
+** TODO Finalize INF234 resit
+* TOMORROW
 ** TODO Talk to MB Future
 ** TODO Meet with SS, VO, TB
 * THIS WEEK
 ** TODO Research inspection
-** DONE Deliver AI quiz for SDG607
-* NEXT WEEK
 ** DONE Prepare INF237 (Dijstra's & MST)
-** TODO Finish essay
+* NEXT WEEK
 ** TODO Read siving proposal
 ** TODO Read CSC'23
 ** TODO Decide on FCT
