@@ -4,7 +4,8 @@
 * TODAY
 ** DONE Assign reviews
 ** TODO Finish essay
-** TODO Finalize INF234 resit
+** DONE Finalize INF234 resit
+** TODO decide & reply lo
 * TOMORROW
 ** TODO Talk to MB Future
 ** TODO Meet with SS, VO, TB
@@ -12,6 +13,12 @@
 ** TODO Research inspection
 ** DONE Prepare INF237 (Dijstra's & MST)
 * NEXT WEEK
+** TODO Prepare talk tysnes
+** TODO Prepare talk itv
+** TODO Prepare talk it-uib
+** TODO Prepare talk uit
+** TODO Prepare talk nbek
+** TODO Prepare talk lo
 ** TODO Read siving proposal
 ** TODO Read CSC'23
 ** TODO Decide on FCT
