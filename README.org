@@ -7,7 +7,7 @@
 ** DONE Finalize INF234 resit
 ** DONE decide & reply lo
 ** TODO respond to dfø for 10th time
-** TODO reply to CUP about address
+** DONE reply to CUP about address
 * TOMORROW
 ** DONE Prepare INF237 (Dijstra's & MST)
 ** TODO Add A* INF237
