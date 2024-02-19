@@ -11,6 +11,7 @@
 * TOMORROW
 ** DONE Prepare INF237 (Dijstra's & MST)
 ** TODO Add A* INF237
+** TODO Read CSC'23
 * THIS WEEK
 ** TODO Talk to MB Future
 ** TODO Meet with SS, VO, TB
@@ -23,5 +24,4 @@
 ** TODO Prepare talk uit
 ** TODO Prepare talk nbek
 ** TODO Read siving proposal
-** TODO Read CSC'23
 ** TODO Decide on FCT
