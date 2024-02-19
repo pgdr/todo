@@ -9,9 +9,10 @@
 * TOMORROW
 ** TODO Talk to MB Future
 ** TODO Meet with SS, VO, TB
+** DONE Prepare INF237 (Dijstra's & MST)
+** TODO Add A* INF237
 * THIS WEEK
 ** TODO Research inspection
-** DONE Prepare INF237 (Dijstra's & MST)
 * NEXT WEEK
 ** TODO Prepare talk tysnes
 ** TODO Prepare talk itv
