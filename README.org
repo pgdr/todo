@@ -2,7 +2,7 @@
 ** TODO Review Algorithmica
 ** DONE Make INF234 resit
 * TODAY
-** TODO Assign reviews
+** DONE Assign reviews
 ** TODO Finish essay
 ** TODO Finalize INF234 resit
 * TOMORROW
