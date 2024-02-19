@@ -5,7 +5,7 @@
 ** DONE Assign reviews
 ** TODO Finish essay
 ** DONE Finalize INF234 resit
-** TODO decide & reply lo
+** DONE decide & reply lo
 ** TODO respond to dfø for 10th time
 ** TODO reply to CUP about address
 * TOMORROW
@@ -17,11 +17,11 @@
 ** TODO Research inspection
 * NEXT WEEK
 ** TODO Prepare talk tysnes
+** TODO Prepare talk lo
 ** TODO Prepare talk itv
 ** TODO Prepare talk it-uib
 ** TODO Prepare talk uit
 ** TODO Prepare talk nbek
-** TODO Prepare talk lo
 ** TODO Read siving proposal
 ** TODO Read CSC'23
 ** TODO Decide on FCT
