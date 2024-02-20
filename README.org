@@ -3,7 +3,7 @@
 ** DONE Make INF234 resit
 * TODAY
 ** DONE Assign reviews
-** TODO Finish essay
+** DONE Finish essay
 ** DONE Finalize INF234 resit
 ** DONE decide & reply lo
 ** TODO respond to dfø for 10th time
