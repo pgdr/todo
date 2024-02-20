@@ -1,13 +1,12 @@
 * YESTERDAY!
 ** TODO Review Algorithmica
-** DONE Make INF234 resit
+** DONE Finalize INF234 resit
+** DONE decide & reply lo
+** DONE reply to CUP about address
 * TODAY
 ** TODO Assign reviews
 ** DONE Finish essay
-** DONE Finalize INF234 resit
-** DONE decide & reply lo
 ** TODO respond to dfø for 10th time
-** DONE reply to CUP about address
 * TOMORROW
 ** DONE Prepare INF237 (Dijstra's & MST)
 ** TODO Add A* INF237
