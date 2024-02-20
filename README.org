@@ -4,8 +4,8 @@
 ** DONE decide & reply lo
 ** DONE reply to CUP about address
 * TODAY
-** TODO Assign reviews
 ** DONE Finish essay
+** TODO Assign reviews
 ** TODO respond to dfø for 10th time
 * TOMORROW
 ** DONE Prepare INF237 (Dijstra's & MST)
