@@ -5,11 +5,12 @@
 ** DONE reply to CUP about address
 * TODAY
 ** DONE Finish essay
-** TODO Assign reviews
+** TODO Assign reviews - PW & FA
 ** TODO respond to dfø for 10th time
-* TOMORROW
-** DONE Prepare INF237 (Dijstra's & MST)
 ** TODO Add A* INF237
+** DONE Prepare INF237 (Dijstra's & MST)
+** TODO Meet with EH
+* TOMORROW
 ** TODO Read CSC'23
 * THIS WEEK
 ** TODO Talk to MB Future
