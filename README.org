@@ -1,21 +1,11 @@
 * YESTERDAY!
 ** TODO Review Algorithmica
-** DONE Finalize INF234 resit
-** DONE decide & reply lo
-** DONE reply to CUP about address
-** DONE Finish essay
-** DONE Add A* INF237
-** DONE Prepare INF237 (Dijstra's & MST)
-** DONE Meet with SS
-** DONE Call lo
-** DONE Create compulsory 5 for 237
-* TODAY
 ** DONE Decide who goes to GK ... (surprise) it's me
 ** DONE Reply PW with thanks
 ** DONE Assign reviews WZ
 ** DONE Collect news from group to present
 ** DONE Reply MYY on 237 end date
-* TOMORROW
+* TODAY
 ** TODO Reply FA vis avis travels
 ** TODO Read siving proposal!
 *** TODO Add algo engineering as leader
@@ -23,6 +13,7 @@
 ** TODO Fix errors in slides for 237
 ** TODO Upload (fixed) 237 slides
 ** TODO Create 237 announcement regarding negative cycle detection
+* TOMORROW
 ** TODO Read CSC'23
 ** TODO Reply lo
 * THIS WEEK
