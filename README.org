@@ -16,6 +16,7 @@
 ** DONE Collect news from group to present
 ** DONE Reply MYY on 237 end date
 * TOMORROW
+** TODO Reply FA vis avis travels
 ** TODO Read siving proposal!
 *** TODO Add algo engineering as leader
 ** TODO respond to dfø for 10th time
