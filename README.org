@@ -4,15 +4,15 @@
 ** DONE decide & reply lo
 ** DONE reply to CUP about address
 ** DONE Finish essay
-* TODAY
-** TODO Fix errors in slides for 237
-** TODO Assign reviews - PW & FA
-** TODO respond to dfø for 10th time
 ** DONE Add A* INF237
 ** DONE Prepare INF237 (Dijstra's & MST)
 ** DONE Meet with SS
 ** DONE Call lo
 ** DONE Create compulsory 5 for 237
+* TODAY
+** TODO Fix errors in slides for 237
+** TODO Assign reviews - PW & FA
+** TODO respond to dfø for 10th time
 * TOMORROW
 ** TODO Meet with EH
 ** TODO Read CSC'23
