@@ -15,9 +15,9 @@
 ** DONE Decide who goes to GK ... (surprise) it's me
 ** DONE Reply PW with thanks
 ** TODO Assign reviews - PW & FA
-** TODO respond to dfø for 10th time
-** TODO Collect news from group to present
+** DONE Collect news from group to present
 * TOMORROW
+** TODO respond to dfø for 10th time
 ** TODO Fix errors in slides for 237
 ** TODO Upload (fixed) 237 slides
 ** TODO Read CSC'23
