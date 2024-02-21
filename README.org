@@ -4,6 +4,7 @@
 ** DONE decide & reply lo
 ** DONE reply to CUP about address
 * TODAY
+** TODO Fix errors in slides for 237
 ** DONE Finish essay
 ** TODO Assign reviews - PW & FA
 ** TODO respond to dfø for 10th time
