@@ -3,18 +3,18 @@
 ** DONE Finalize INF234 resit
 ** DONE decide & reply lo
 ** DONE reply to CUP about address
+** DONE Finish essay
 * TODAY
 ** TODO Fix errors in slides for 237
-** DONE Finish essay
 ** TODO Assign reviews - PW & FA
 ** TODO respond to dfø for 10th time
-** TODO Add A* INF237
+** DONE Add A* INF237
 ** DONE Prepare INF237 (Dijstra's & MST)
-** TODO Meet with EH
 ** DONE Meet with SS
-** TODO Call lo
+** DONE Call lo
 ** DONE Create compulsory 5 for 237
 * TOMORROW
+** TODO Meet with EH
 ** TODO Read CSC'23
 * THIS WEEK
 ** TODO Talk to MB Future
