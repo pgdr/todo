@@ -11,7 +11,7 @@
 ** DONE Create compulsory 5 for 237
 * TODAY
 ** TODO Decide who goes to GK
-** TODO Reply PW with thanks
+** DONE Reply PW with thanks
 ** TODO Assign reviews - PW & FA
 ** TODO respond to dfø for 10th time
 * TOMORROW
