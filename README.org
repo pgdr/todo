@@ -22,6 +22,7 @@
 ** TODO respond to dfø for 10th time
 ** TODO Fix errors in slides for 237
 ** TODO Upload (fixed) 237 slides
+** TODO Create 237 announcement regarding negative cycle detection
 ** TODO Read CSC'23
 * THIS WEEK
 ** TODO Talk to MB Future
