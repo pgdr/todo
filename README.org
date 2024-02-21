@@ -12,6 +12,7 @@
 ** DONE Prepare INF237 (Dijstra's & MST)
 ** TODO Meet with EH
 ** DONE Meet with SS
+** TODO Fix 237-5 slides' bugs
 ** TODO Call lo
 ** TODO Create compulsory 5 for 237
 * TOMORROW
