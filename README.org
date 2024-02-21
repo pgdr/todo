@@ -14,6 +14,7 @@
 ** DONE Reply PW with thanks
 ** DONE Assign reviews - PW & FA
 ** DONE Collect news from group to present
+** TODO Reply MYY on 237 end date
 * TOMORROW
 ** TODO Read siving proposal!
 *** TODO Add algo engineering as leader
