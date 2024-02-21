@@ -24,6 +24,7 @@
 ** TODO Upload (fixed) 237 slides
 ** TODO Create 237 announcement regarding negative cycle detection
 ** TODO Read CSC'23
+** TODO Reply lo
 * THIS WEEK
 ** TODO Talk to MB Future
 ** TODO Meet with SS, VO, TB
