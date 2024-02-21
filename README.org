@@ -11,7 +11,7 @@
 ** TODO Add A* INF237
 ** DONE Prepare INF237 (Dijstra's & MST)
 ** TODO Meet with EH
-** TODO Meet with SS
+** DONE Meet with SS
 ** TODO Call lo
 ** TODO Create compulsory 5 for 237
 * TOMORROW
