@@ -14,6 +14,7 @@
 ** DONE Reply PW with thanks
 ** TODO Assign reviews - PW & FA
 ** TODO respond to dfø for 10th time
+** TODO Collect news from group to present
 * TOMORROW
 ** TODO Fix errors in slides for 237
 ** TODO Read CSC'23
