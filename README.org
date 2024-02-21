@@ -12,7 +12,7 @@
 * TODAY
 ** DONE Decide who goes to GK ... (surprise) it's me
 ** DONE Reply PW with thanks
-** TODO Assign reviews WZ
+** DONE Assign reviews WZ
 ** DONE Collect news from group to present
 ** DONE Reply MYY on 237 end date
 * TOMORROW
