@@ -13,7 +13,7 @@
 ** TODO Meet with EH
 ** DONE Meet with SS
 ** TODO Call lo
-** TODO Create compulsory 5 for 237
+** DONE Create compulsory 5 for 237
 * TOMORROW
 ** TODO Read CSC'23
 * THIS WEEK
