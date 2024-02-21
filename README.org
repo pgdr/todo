@@ -11,6 +11,7 @@
 ** DONE Create compulsory 5 for 237
 * TODAY
 ** TODO Read siving proposal!
+*** TODO Add algo engineering as leader
 ** DONE Decide who goes to GK ... (surprise) it's me
 ** DONE Reply PW with thanks
 ** TODO Assign reviews - PW & FA
