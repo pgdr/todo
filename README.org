@@ -18,6 +18,7 @@
 ** TODO Collect news from group to present
 * TOMORROW
 ** TODO Fix errors in slides for 237
+** TODO Upload (fixed)237 slides
 ** TODO Read CSC'23
 * THIS WEEK
 ** TODO Talk to MB Future
