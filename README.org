@@ -10,6 +10,7 @@
 ** DONE Call lo
 ** DONE Create compulsory 5 for 237
 * TODAY
+** TODO Read siving proposal!
 ** DONE Decide who goes to GK ... (surprise) it's me
 ** DONE Reply PW with thanks
 ** TODO Assign reviews - PW & FA
@@ -30,5 +31,4 @@
 ** TODO Prepare talk it-uib
 ** TODO Prepare talk uit
 ** TODO Prepare talk nbek
-** TODO Read siving proposal
 ** TODO Decide on FCT
