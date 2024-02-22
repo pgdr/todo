@@ -5,7 +5,7 @@
 ** DONE Attend siving meeting ... d'oh
 ** TODO Folo @ PaG for journal version (request sent to FR)
 ** TODO Assign review for pm
-** TODO Reply FA vis avis travels
+** DONE Reply FA vis avis travels
 ** TODO respond to dfø for 10th time
 * TOMORROW
 ** TODO compile news for GK
