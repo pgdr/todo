@@ -18,6 +18,7 @@
 ** TODO Decide on ignasi                                             :review:
 * TOMORROW
 * THIS WEEK
+** TODO Prepare talk lo                                                 :pop:
 * NEXT WEEK
 ** TODO Discuss with MB IDI                                             :237:
 ** TODO Discuss with SS Echo contest                                    :237:
@@ -26,7 +27,6 @@
 ** TODO Meet with EH                                                 :master:
 ** TODO Prepare problem for JRS and 319                            :bachelor:
 ** TODO Prepare talk tysnes                                             :pop:
-** TODO Prepare talk lo                                                 :pop:
 ** TODO Prepare talk itv                                                :pop:
 ** TODO Prepare talk it-uib                                             :pop:
 ** TODO Prepare talk uit                                                :pop:
