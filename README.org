@@ -5,7 +5,7 @@
 ** DONE Create 237 announcement regarding negative cycle detection
 ** DONE Upload (fixed) 237 slides
 ** DONE Fix errors in slides for 237
-** DONE Assign review for pm -> Sent to PS
+** TODO Assign review for pm
 ** TODO Folo @ PaG for journal version (request sent to FR)
 ** TODO Reply FA vis avis travels
 ** TODO Read siving proposal!
