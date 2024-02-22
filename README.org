@@ -13,6 +13,7 @@
 * TOMORROW
 ** TODO Read CSC'23
 ** TODO Visit exam location
+** TODO Attend GK meeting, compile news
 ** TODO Reply lo
 * THIS WEEK
 ** TODO Talk to MB Future
