@@ -1,15 +1,15 @@
 * YESTERDAY!
 ** TODO Review Algorithmica
 * TODAY
+** DONE Create 237 announcement regarding negative cycle detection
+** DONE Upload (fixed) 237 slides
+** DONE Fix errors in slides for 237
 ** DONE Assign review for pm -> Sent to PS
 ** TODO Folo @ PaG for journal version (request sent to FR)
 ** TODO Reply FA vis avis travels
 ** TODO Read siving proposal!
 *** TODO Add algo engineering as leader
 ** TODO respond to dfø for 10th time
-** TODO Fix errors in slides for 237
-** TODO Upload (fixed) 237 slides
-** TODO Create 237 announcement regarding negative cycle detection
 * TOMORROW
 ** TODO compile news for GK
 ** TODO Visit exam location
