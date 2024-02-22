@@ -19,6 +19,7 @@
 ** TODO Research inspection
 * NEXT WEEK
 ** TODO Meet with EH
+** TODO Prepare problem for JRS and 319
 ** TODO Prepare talk tysnes
 ** TODO Prepare talk lo
 ** TODO Prepare talk itv
