@@ -10,7 +10,7 @@
 ** TODO Reply lo
 ** TODO Reply to PH
 ** DONE compile news for GK
-** TODO Visit exam location
+** TODO Visit exam location                                             :234:
 ** TODO Attend GK meeting
 ** TODO Answer JE
 ** TODO Talk to MB Future
@@ -18,8 +18,8 @@
 * TOMORROW
 * THIS WEEK
 * NEXT WEEK
-** TODO Discuss with MB IDI :237:
-** TODO Discuss with SS Echo contest :237:
+** TODO Discuss with MB IDI                                             :237:
+** TODO Discuss with SS Echo contest                                    :237:
 ** TODO Research inspection
 ** TODO Read CSC'23
 ** TODO Meet with EH
