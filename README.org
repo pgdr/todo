@@ -12,6 +12,7 @@
 ** TODO Create 237 announcement regarding negative cycle detection
 * TOMORROW
 ** TODO Read CSC'23
+** TODO Visit exam location
 ** TODO Reply lo
 * THIS WEEK
 ** TODO Talk to MB Future
