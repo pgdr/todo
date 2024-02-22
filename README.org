@@ -1,13 +1,9 @@
 * YESTERDAY!
 ** TODO Review Algorithmica
-** DONE Decide who goes to GK ... (surprise) it's me
-** DONE Reply PW with thanks
-** DONE Assign reviews WZ
-** DONE Collect news from group to present
-** DONE Reply MYY on 237 end date
 * TODAY
 ** TODO Folo @ PaG for journal version
 ** TODO Reply FA vis avis travels
+** TODO Assign review for pm
 ** TODO Read siving proposal!
 *** TODO Add algo engineering as leader
 ** TODO respond to dfø for 10th time
