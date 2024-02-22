@@ -1,8 +1,8 @@
 * YESTERDAY!
-** TODO Review Algorithmica
-** DONE Read siving proposal!
-** DONE Attend siving meeting ... d'oh
-** DONE Reply FA vis avis travels
+** TODO Review Algorithmica                                          :review:
+** DONE Read siving proposal!                                         :admin:
+** DONE Attend siving meeting ... d'oh                                :admin:
+** DONE Reply FA vis avis travels                                         :r:
 ** DONE compile news for GK                                           :admin:
 * TODAY
 ** TODO Folo @ PaG for journal version (request sent to FR)           :r:sub:
