@@ -23,7 +23,7 @@
 ** TODO Research inspection                                               :r:
 ** TODO Read CSC'23                                                   :admin:
 ** TODO Meet with EH                                                 :master:
-** TODO Prepare problem for JRS and 319
+** TODO Prepare problem for JRS and 319                            :bachelor:
 ** TODO Prepare talk tysnes                                             :pop:
 ** TODO Prepare talk lo                                                 :pop:
 ** TODO Prepare talk itv                                                :pop:
