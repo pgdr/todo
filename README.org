@@ -20,14 +20,14 @@
 * NEXT WEEK
 ** TODO Discuss with MB IDI                                             :237:
 ** TODO Discuss with SS Echo contest                                    :237:
-** TODO Research inspection
-** TODO Read CSC'23
-** TODO Meet with EH
+** TODO Research inspection                                               :r:
+** TODO Read CSC'23                                                   :admin:
+** TODO Meet with EH                                                 :master:
 ** TODO Prepare problem for JRS and 319
-** TODO Prepare talk tysnes
-** TODO Prepare talk lo
-** TODO Prepare talk itv
-** TODO Prepare talk it-uib
-** TODO Prepare talk uit
-** TODO Prepare talk nbek
-** TODO Decide on FCT
+** TODO Prepare talk tysnes                                             :pop:
+** TODO Prepare talk lo                                                 :pop:
+** TODO Prepare talk itv                                                :pop:
+** TODO Prepare talk it-uib                                             :pop:
+** TODO Prepare talk uit                                                :pop:
+** TODO Prepare talk nbek                                               :pop:
+** TODO Decide on FCT                                                 :admin:
