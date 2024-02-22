@@ -18,6 +18,8 @@
 * TOMORROW
 * THIS WEEK
 * NEXT WEEK
+** TODO [237] Discuss with MB IDI
+** TODO [237] Discuss with SS Echo contest
 ** TODO Research inspection
 ** TODO Read CSC'23
 ** TODO Meet with EH
