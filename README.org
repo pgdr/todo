@@ -1,21 +1,21 @@
 * YESTERDAY!
 ** TODO Review Algorithmica
-* TODAY
 ** DONE Read siving proposal!
 ** DONE Attend siving meeting ... d'oh
 ** DONE Reply FA vis avis travels
+* TODAY
 ** TODO Folo @ PaG for journal version (request sent to FR)
 ** TODO Assign review for pm
 ** TODO respond to dfø for 10th time
 ** TODO Reply lo
 ** TODO Reply to PH
-* TOMORROW
 ** DONE compile news for GK
 ** TODO Visit exam location
 ** TODO Attend GK meeting
 ** TODO Answer JE
 ** TODO Talk to MB Future
 ** TODO Meet with SS, VO, TB
+* TOMORROW
 * THIS WEEK
 * NEXT WEEK
 ** TODO Research inspection
