@@ -14,7 +14,7 @@
 ** TODO Attend GK meeting                                             :admin:
 ** TODO Answer JE                                                       :pop:
 ** TODO Talk to MB Future                                               :phd:
-** TODO Meet with SS, VO, TB
+** TODO Meet with SS, VO, TB                                         :master:
 * TOMORROW
 * THIS WEEK
 * NEXT WEEK
