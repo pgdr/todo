@@ -6,6 +6,7 @@
 ** DONE Collect news from group to present
 ** DONE Reply MYY on 237 end date
 * TODAY
+** TODO Folo @ PaG for journal version
 ** TODO Reply FA vis avis travels
 ** TODO Read siving proposal!
 *** TODO Add algo engineering as leader
