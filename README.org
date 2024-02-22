@@ -4,7 +4,7 @@
 ** DONE Attend siving meeting ... d'oh
 ** DONE Reply FA vis avis travels
 * TODAY
-** TODO Folo @ PaG for journal version (request sent to FR)
+** TODO Folo @ PaG for journal version (request sent to FR)           :r:sub:
 ** TODO Assign review for pm                                             :pc:
 ** TODO respond to dfø for 10th time                                  :admin:
 ** TODO Reply lo
