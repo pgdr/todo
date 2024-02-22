@@ -1,16 +1,11 @@
 * YESTERDAY!
 ** TODO Review Algorithmica
 * TODAY
-** DONE Add Makefile
-** DONE Create 237 announcement regarding negative cycle detection
-** DONE Upload (fixed) 237 slides
-** DONE Fix errors in slides for 237
-** TODO Assign review for pm
+** DONE Read siving proposal!
+** DONE Attend siving meeting ... d'oh
 ** TODO Folo @ PaG for journal version (request sent to FR)
+** TODO Assign review for pm
 ** TODO Reply FA vis avis travels
-** TODO Read siving proposal!
-*** TODO Add algo engineering as leader
-** TODO Attend siving meeting ... d'oh
 ** TODO respond to dfø for 10th time
 * TOMORROW
 ** TODO compile news for GK
