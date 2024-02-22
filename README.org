@@ -3,7 +3,7 @@
 * TODAY
 ** TODO Folo @ PaG for journal version
 ** TODO Reply FA vis avis travels
-** TODO Assign review for pm
+** DONE Assign review for pm -> Sent to PS
 ** TODO Read siving proposal!
 *** TODO Add algo engineering as leader
 ** TODO respond to dfø for 10th time
