@@ -1,6 +1,7 @@
 * YESTERDAY!
 ** TODO Review Algorithmica
 * TODAY
+** DONE Add Makefile
 ** DONE Create 237 announcement regarding negative cycle detection
 ** DONE Upload (fixed) 237 slides
 ** DONE Fix errors in slides for 237
@@ -11,7 +12,6 @@
 *** TODO Add algo engineering as leader
 ** TODO Attend siving meeting ... d'oh
 ** TODO respond to dfø for 10th time
-** DONE Add Makefile
 * TOMORROW
 ** TODO compile news for GK
 ** TODO Visit exam location
