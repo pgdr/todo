@@ -1,9 +1,9 @@
 * YESTERDAY!
 ** TODO Review Algorithmica
 * TODAY
-** TODO Folo @ PaG for journal version
-** TODO Reply FA vis avis travels
 ** DONE Assign review for pm -> Sent to PS
+** TODO Folo @ PaG for journal version (request sent to FR)
+** TODO Reply FA vis avis travels
 ** TODO Read siving proposal!
 *** TODO Add algo engineering as leader
 ** TODO respond to dfø for 10th time
