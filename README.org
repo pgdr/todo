@@ -3,13 +3,13 @@
 ** DONE Read siving proposal!
 ** DONE Attend siving meeting ... d'oh
 ** DONE Reply FA vis avis travels
+** DONE compile news for GK                                           :admin:
 * TODAY
 ** TODO Folo @ PaG for journal version (request sent to FR)           :r:sub:
 ** TODO Assign review for pm                                             :pc:
 ** TODO respond to dfø for 10th time                                  :admin:
 ** TODO Reply lo                                                        :pop:
 ** TODO Reply to PH                                                   :admin:
-** DONE compile news for GK
 ** TODO Visit exam location                                             :234:
 ** TODO Attend GK meeting                                             :admin:
 ** TODO Answer JE                                                       :pop:
