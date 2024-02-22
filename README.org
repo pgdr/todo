@@ -5,8 +5,8 @@
 ** DONE Reply FA vis avis travels
 * TODAY
 ** TODO Folo @ PaG for journal version (request sent to FR)
-** TODO Assign review for pm
-** TODO respond to dfø for 10th time
+** TODO Assign review for pm                                             :pc:
+** TODO respond to dfø for 10th time                                  :admin:
 ** TODO Reply lo
 ** TODO Reply to PH
 ** DONE compile news for GK
