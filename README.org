@@ -38,8 +38,10 @@
 * NEXT MONTH
 * NEXT YEAR
 * Master students
-** EH
-** VO
-** SS
-** TB
-** MR
+** 2024
+*** EH
+*** VO
+*** SS
+** 2025
+*** TB
+*** MR
