@@ -9,7 +9,7 @@
 ** DONE respond to dfø for 10th time                                  :admin:
 ** DONE Send news to LV for minutes                                   :admin:
 ** DONE Attend GK meeting                                             :admin:
-** TODO Plan master presentations for March 15                       :master:
+** DONE Plan master presentations for March 15                       :master:
 ** TODO Folo on FF/PG/MB/TK on network diversion                          :r:
 ** TODO Reply to lo                                                     :pop:
 ** TODO Reply to JE                                                     :pop:
