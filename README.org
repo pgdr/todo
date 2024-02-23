@@ -11,11 +11,11 @@
 ** DONE Attend GK meeting                                             :admin:
 ** DONE Plan master presentations for March 15                       :master:
 ** DONE Meet with SS, VO, TB                                         :master:
+** DONE Decide on IS                                                 :review:
 ** TODO Folo on FF/PG/MB/TK on network diversion                          :r:
 ** TODO Reply to lo                                                     :pop:
 ** TODO Reply to JE                                                     :pop:
 ** TODO Talk to MB Future                                               :phd:
-** TODO Decide on IS                                                 :review:
 * TOMORROW
 * THIS WEEK
 * NEXT WEEK
