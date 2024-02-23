@@ -12,7 +12,7 @@
 ** DONE Plan master presentations for March 15                       :master:
 ** DONE Meet with SS, VO, TB                                         :master:
 ** DONE Decide on IS                                                 :review:
-** TODO Folo on FF/PG/MB/TK on network diversion                          :r:
+** DONE Folo on FF/PG/MB/TK on network diversion                          :r:
 ** TODO Reply to lo                                                     :pop:
 ** TODO Reply to JE                                                     :pop:
 ** TODO Talk to MB Future                                               :phd:
