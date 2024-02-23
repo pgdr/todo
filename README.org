@@ -13,8 +13,8 @@
 ** DONE Meet with SS, VO, TB                                         :master:
 ** DONE Decide on IS                                                 :review:
 ** DONE Folo on FF/PG/MB/TK on network diversion                          :r:
+** DONE Reply to JE                                                     :pop:
 ** TODO Reply to lo                                                     :pop:
-** TODO Reply to JE                                                     :pop:
 ** TODO Talk to MB Future                                               :phd:
 * TOMORROW
 * THIS WEEK
@@ -29,11 +29,11 @@
 ** TODO Read CSC'23                                                   :admin:
 ** TODO Meet with EH                                                 :master:
 ** TODO Prepare problem for JRS and 319                            :bachelor:
-** TODO Prepare talk tysnes                                             :pop:
-** TODO Prepare talk itv                                                :pop:
-** TODO Prepare talk it-uib                                             :pop:
-** TODO Prepare talk uit                                                :pop:
-** TODO Prepare talk nbek                                               :pop:
+** TODO Prepare talk tysnes 03-14                                       :pop:
+** TODO Prepare talk itv    03-19                                       :pop:
+** TODO Prepare talk it-uib 03-19                                       :pop:
+** TODO Prepare talk uit    04-04                                       :pop:
+** TODO Prepare talk nbek   04-17                                       :pop:
 ** TODO Decide on FCT                                                 :admin:
 * NEXT MONTH
 * NEXT YEAR
