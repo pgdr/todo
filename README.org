@@ -6,6 +6,7 @@
 ** DONE Assign review for pm -> JR                                       :pc:
 ** DONE Ask SM/LV for account number                                  :admin:
 ** DONE Folo @ PaG for journal version (request sent to FR)           :r:sub:
+** TODO Folo on FF/PG/MB/TK on network diversion                          :r:
 ** TODO respond to dfø for 10th time                                  :admin:
 ** TODO Reply to lo                                                     :pop:
 ** TODO Attend GK meeting                                             :admin:
