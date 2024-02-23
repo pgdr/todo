@@ -1,8 +1,8 @@
 * YESTERDAY!
 ** TODO Review Algorithmica                                          :review:
 * TODAY
-* TOMORROW
 ** TODO Assign review for pm                                             :pc:
+* TOMORROW
 * THIS WEEK
 * NEXT WEEK
 ** TODO Talk to MB Future                                               :phd:
