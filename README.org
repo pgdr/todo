@@ -19,6 +19,7 @@
 * TOMORROW
 * THIS WEEK
 * NEXT WEEK
+** TODO Write contract for energy AI                                  :admin:
 ** TODO SNL Algorithm                                                   :snl:
 ** TODO SNL Sortering                                                   :snl:
 ** TODO Prepare talk lo                                                 :pop:
