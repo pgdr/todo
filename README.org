@@ -7,9 +7,9 @@
 ** DONE Ask SM/LV for account number                                  :admin:
 ** DONE Folo @ PaG for journal version (request sent to FR)           :r:sub:
 ** TODO respond to dfø for 10th time                                  :admin:
-** TODO Reply lo                                                        :pop:
+** TODO Reply to lo                                                     :pop:
 ** TODO Attend GK meeting                                             :admin:
-** TODO Answer JE                                                       :pop:
+** TODO Reply to JE                                                     :pop:
 ** TODO Talk to MB Future                                               :phd:
 ** TODO Meet with SS, VO, TB                                         :master:
 ** TODO Decide on ignasi                                             :review:
