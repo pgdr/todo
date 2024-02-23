@@ -1,7 +1,7 @@
 * YESTERDAY!
 ** TODO Review Algorithmica                                          :review:
 * TODAY
-** DONE Assign review for pm                                             :pc:
+** DONE Assign review for pm -> accepted CY                              :pc:
 * TOMORROW
 * THIS WEEK
 * NEXT WEEK
