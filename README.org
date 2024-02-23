@@ -16,6 +16,8 @@
 * TOMORROW
 * THIS WEEK
 * NEXT WEEK
+** TODO SNL Algorithm                                                   :snl:
+** TODO SNL Sortering                                                   :snl:
 ** TODO Prepare talk lo                                                 :pop:
 ** TODO Discuss with MB IDI                                             :237:
 ** TODO Discuss with SS Echo contest                                    :237:
