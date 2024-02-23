@@ -8,7 +8,7 @@
 ** DONE Folo @ PaG for journal version (request sent to FR)           :r:sub:
 ** DONE respond to dfø for 10th time                                  :admin:
 ** TODO Plan master presentations for March 15                       :master:
-** TODO Send news to LV for minutes                                   :admin:
+** DONE Send news to LV for minutes                                   :admin:
 ** TODO Folo on FF/PG/MB/TK on network diversion                          :r:
 ** TODO Reply to lo                                                     :pop:
 ** TODO Attend GK meeting                                             :admin:
