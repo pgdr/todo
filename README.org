@@ -12,7 +12,7 @@
 ** TODO Reply to JE                                                     :pop:
 ** TODO Talk to MB Future                                               :phd:
 ** TODO Meet with SS, VO, TB                                         :master:
-** TODO Decide on ignasi                                             :review:
+** TODO Decide on IS                                                 :review:
 * TOMORROW
 * THIS WEEK
 * NEXT WEEK
