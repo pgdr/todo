@@ -1,12 +1,12 @@
 * YESTERDAY!
 ** TODO Review Algorithmica                                          :review:
 * TODAY
+** DONE Visit exam location                                             :234:
 ** TODO Folo @ PaG for journal version (request sent to FR)           :r:sub:
 ** TODO Assign review for pm                                             :pc:
 ** TODO respond to dfø for 10th time                                  :admin:
 ** TODO Reply lo                                                        :pop:
 ** TODO Reply to PH                                                   :admin:
-** TODO Visit exam location                                             :234:
 ** TODO Attend GK meeting                                             :admin:
 ** TODO Answer JE                                                       :pop:
 ** TODO Talk to MB Future                                               :phd:
