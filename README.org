@@ -1,19 +1,6 @@
 * YESTERDAY!
 ** TODO Review Algorithmica                                          :review:
 * TODAY
-** DONE Visit exam location                                             :234:
-** DONE Reply to PH                                                   :admin:
-** DONE Ask SM/LV for account number                                  :admin:
-** DONE Folo @ PaG for journal version (request sent to FR)           :r:sub:
-** DONE respond to dfø for 10th time                                  :admin:
-** DONE Send news to LV for minutes                                   :admin:
-** DONE Attend GK meeting                                             :admin:
-** DONE Plan master presentations for March 15                       :master:
-** DONE Meet with SS, VO, TB                                         :master:
-** DONE Decide on IS                                                 :review:
-** DONE Folo on FF/PG/MB/TK on network diversion                          :r:
-** DONE Reply to JE                                                     :pop:
-** DONE Reply to lo                                                     :pop:
 * TOMORROW
 ** TODO Assign review for pm                                             :pc:
 * THIS WEEK
