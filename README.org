@@ -4,7 +4,7 @@
 ** DONE Visit exam location                                             :234:
 ** DONE Reply to PH                                                   :admin:
 ** TODO Folo @ PaG for journal version (request sent to FR)           :r:sub:
-** TODO Assign review for pm                                             :pc:
+** DONE Assign review for pm -> JR                                       :pc:
 ** TODO respond to dfø for 10th time                                  :admin:
 ** TODO Reply lo                                                        :pop:
 ** TODO Attend GK meeting                                             :admin:
