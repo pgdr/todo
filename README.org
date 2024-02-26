@@ -12,6 +12,7 @@
 *** Add num zeros to sqrt decom
 *** Add range update to sqrt decom
 *** Add `mode` not doable: honorable mention: Mo's algo
+*** Add `max` and num times it appears
 * TOMORROW
 ** TODO Meet reg tysnes                                                 :pop:
 ** TODO Meet MB                                                   :237:r:phd:
