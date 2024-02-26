@@ -9,6 +9,7 @@
 ** TODO Catch up with arxiv                                               :r:
 ** TODO Clean up github                                               :admin:
 * TOMORROW
+** TODO Meet reg tysnes                                                 :pop:
 * THIS WEEK
 ** TODO Talk to MB Future                                               :phd:
 ** TODO Meet with EH                                                 :master:
