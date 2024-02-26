@@ -6,7 +6,7 @@
 ** TODO Prepare talk lo                                                 :pop:
 ** TODO Discuss with MB IDI                                             :237:
 ** TODO Discuss with SS Echo contest                                    :237:
-** TODO Catch up with arxiv                                               :r:
+** DONE Catch up with arxiv                                               :r:
 ** TODO Clean up github                                               :admin:
 * TOMORROW
 ** TODO Meet reg tysnes                                                 :pop:
