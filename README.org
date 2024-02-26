@@ -14,6 +14,7 @@
 ** TODO Talk to MB Future                                               :phd:
 ** TODO Meet with EH                                                 :master:
 ** TODO Grading 234 resit                                               :234:
+** TODO Prepare 237 lecture 6                                           :237:
 * THIS WEEK
 ** TODO Prepare 237 oral round 1                                        :237:
 * NEXT WEEK
