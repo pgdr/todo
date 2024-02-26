@@ -5,9 +5,9 @@
 ** DONE Contact IDI                                                     :237:
 ** DONE Talk to IJ & KF about toppledere                              :admin:
 ** DONE Catch up with arxiv                                               :r:
+** DONE Discuss with SS Echo contest                                    :237:
 ** TODO Prepare talk lo                                                 :pop:
 ** TODO Discuss with MB IDI                                             :237:
-** DONE Discuss with SS Echo contest                                    :237:
 * TOMORROW
 ** TODO Meet reg tysnes                                                 :pop:
 ** TODO Meet MB                                                   :237:r:phd:
