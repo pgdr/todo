@@ -1,19 +1,20 @@
 * YESTERDAY!
 ** TODO Review Algorithmica                                          :review:
 * TODAY
-* TOMORROW
-* THIS WEEK
-* NEXT WEEK
-** TODO Talk to MB Future                                               :phd:
-** TODO Write contract for energy AI                                  :admin:
-** TODO SNL Algorithm                                                   :snl:
-** TODO SNL Sortering                                                   :snl:
 ** TODO Prepare talk lo                                                 :pop:
 ** TODO Discuss with MB IDI                                             :237:
 ** TODO Discuss with SS Echo contest                                    :237:
+** TODO Prepared 237 oral round 1                                       :237:
+* TOMORROW
+* THIS WEEK
+** TODO Talk to MB Future                                               :phd:
+** TODO Meet with EH                                                 :master:
+* NEXT WEEK
+** TODO Write contract for energy AI                                  :admin:
+** TODO SNL Algorithm                                                   :snl:
+** TODO SNL Sortering                                                   :snl:
 ** TODO Research inspection                                               :r:
 ** TODO Read CSC'23                                                   :admin:
-** TODO Meet with EH                                                 :master:
 ** TODO Prepare problem for JRS and 319                            :bachelor:
 ** TODO Prepare talk tysnes 03-14                                       :pop:
 ** TODO Prepare talk itv    03-19                                       :pop:
