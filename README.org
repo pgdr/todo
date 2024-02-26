@@ -11,11 +11,11 @@
 * TOMORROW
 ** TODO Meet reg tysnes                                                 :pop:
 ** TODO Meet MB                                                   :237:r:phd:
-** TODO Grading 234 resit                                               :234:
-* THIS WEEK
 ** TODO Talk to MB Future                                               :phd:
 ** TODO Meet with EH                                                 :master:
-** TODO Prepared 237 oral round 1                                       :237:
+** TODO Grading 234 resit                                               :234:
+* THIS WEEK
+** TODO Prepare 237 oral round 1                                        :237:
 * NEXT WEEK
 ** TODO Organize reviews for swat                                 :pc:review:
 ** TODO Write contract for energy AI                                  :admin:
@@ -31,7 +31,7 @@
 * NEXT MONTH
 ** TODO Prepare talk uit    04-04                                       :pop:
 ** TODO Prepare talk nbek   04-17                                       :pop:
-** TODO Prepared 237 oral round 1                                       :237:
+** TODO Prepare 237 oral round 2                                        :237:
 ** TODO Announce phd position                                     :phd:admin:
 * NEXT YEAR
 * Master students
