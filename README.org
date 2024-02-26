@@ -1,13 +1,13 @@
 * YESTERDAY!
 ** TODO Review Algorithmica                                          :review:
 * TODAY
-** TODO Prepare talk lo                                                 :pop:
 ** DONE Contact IDI                                                     :237:
+** DONE Talk to IJ & KF about toppledere                              :admin:
+** TODO Prepare talk lo                                                 :pop:
 ** TODO Discuss with MB IDI                                             :237:
 ** TODO Discuss with SS Echo contest                                    :237:
 ** TODO Catch up with arxiv                                               :r:
 ** TODO Clean up github                                               :admin:
-** DONE Talk to IJ & KF about toppledere                              :admin:
 * TOMORROW
 * THIS WEEK
 ** TODO Talk to MB Future                                               :phd:
