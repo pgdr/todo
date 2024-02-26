@@ -6,8 +6,8 @@
 ** DONE Catch up with arxiv                                               :r:
 ** TODO Prepare talk lo                                                 :pop:
 ** TODO Discuss with MB IDI                                             :237:
-** TODO Discuss with SS Echo contest                                    :237:
-** TODO Clean up github                                               :admin:
+** DONE Discuss with SS Echo contest                                    :237:
+** DONE Clean up github                                               :admin:
 * TOMORROW
 ** TODO Meet reg tysnes                                                 :pop:
 ** TODO Grading 234 resit                                               :234:
