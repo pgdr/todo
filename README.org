@@ -4,11 +4,11 @@
 ** TODO Prepare talk lo                                                 :pop:
 ** TODO Discuss with MB IDI                                             :237:
 ** TODO Discuss with SS Echo contest                                    :237:
-** TODO Prepared 237 oral round 1                                       :237:
 * TOMORROW
 * THIS WEEK
 ** TODO Talk to MB Future                                               :phd:
 ** TODO Meet with EH                                                 :master:
+** TODO Prepared 237 oral round 1                                       :237:
 * NEXT WEEK
 ** TODO Write contract for energy AI                                  :admin:
 ** TODO SNL Algorithm                                                   :snl:
@@ -19,10 +19,11 @@
 ** TODO Prepare talk tysnes 03-14                                       :pop:
 ** TODO Prepare talk itv    03-19                                       :pop:
 ** TODO Prepare talk it-uib 03-19                                       :pop:
-** TODO Prepare talk uit    04-04                                       :pop:
-** TODO Prepare talk nbek   04-17                                       :pop:
 ** TODO Decide on FCT                                                 :admin:
 * NEXT MONTH
+** TODO Prepare talk uit    04-04                                       :pop:
+** TODO Prepare talk nbek   04-17                                       :pop:
+** TODO Prepared 237 oral round 1                                       :237:
 * NEXT YEAR
 * Master students
 ** 2024
