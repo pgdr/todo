@@ -5,6 +5,7 @@
 ** DONE Contact IDI                                                     :237:
 ** TODO Discuss with MB IDI                                             :237:
 ** TODO Discuss with SS Echo contest                                    :237:
+** TODO Catch up with arxiv                                               :r:
 * TOMORROW
 * THIS WEEK
 ** TODO Talk to MB Future                                               :phd:
