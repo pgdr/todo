@@ -10,6 +10,7 @@
 ** DONE Clean up github                                               :admin:
 * TOMORROW
 ** TODO Meet reg tysnes                                                 :pop:
+** TODO Meet MB                                                   :237:r:phd:
 ** TODO Grading 234 resit                                               :234:
 * THIS WEEK
 ** TODO Talk to MB Future                                               :phd:
