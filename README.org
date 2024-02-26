@@ -32,6 +32,7 @@
 ** TODO Prepare talk uit    04-04                                       :pop:
 ** TODO Prepare talk nbek   04-17                                       :pop:
 ** TODO Prepared 237 oral round 1                                       :237:
+** TODO Announce phd position                                     :phd:admin:
 * NEXT YEAR
 * Master students
 ** 2024
