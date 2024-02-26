@@ -1,13 +1,13 @@
 * YESTERDAY!
 ** TODO Review Algorithmica                                          :review:
 * TODAY
+** DONE Clean up github                                               :admin:
 ** DONE Contact IDI                                                     :237:
 ** DONE Talk to IJ & KF about toppledere                              :admin:
 ** DONE Catch up with arxiv                                               :r:
 ** TODO Prepare talk lo                                                 :pop:
 ** TODO Discuss with MB IDI                                             :237:
 ** DONE Discuss with SS Echo contest                                    :237:
-** DONE Clean up github                                               :admin:
 * TOMORROW
 ** TODO Meet reg tysnes                                                 :pop:
 ** TODO Meet MB                                                   :237:r:phd:
