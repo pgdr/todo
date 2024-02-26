@@ -3,13 +3,14 @@
 * TODAY
 ** DONE Contact IDI                                                     :237:
 ** DONE Talk to IJ & KF about toppledere                              :admin:
+** DONE Catch up with arxiv                                               :r:
 ** TODO Prepare talk lo                                                 :pop:
 ** TODO Discuss with MB IDI                                             :237:
 ** TODO Discuss with SS Echo contest                                    :237:
-** DONE Catch up with arxiv                                               :r:
 ** TODO Clean up github                                               :admin:
 * TOMORROW
 ** TODO Meet reg tysnes                                                 :pop:
+** TODO Grading 234 resit                                               :234:
 * THIS WEEK
 ** TODO Talk to MB Future                                               :phd:
 ** TODO Meet with EH                                                 :master:
