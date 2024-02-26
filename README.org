@@ -2,6 +2,7 @@
 ** TODO Review Algorithmica                                          :review:
 * TODAY
 ** TODO Prepare talk lo                                                 :pop:
+** TODO Contact IDI                                                     :237:
 ** TODO Discuss with MB IDI                                             :237:
 ** TODO Discuss with SS Echo contest                                    :237:
 * TOMORROW
