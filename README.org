@@ -6,7 +6,7 @@
 ** TODO Discuss with MB IDI                                             :237:
 ** TODO Discuss with SS Echo contest                                    :237:
 ** TODO Catch up with arxiv                                               :r:
-** TODO Talk to IJ & KF about toppledere                              :admin:
+** DONE Talk to IJ & KF about toppledere                              :admin:
 * TOMORROW
 * THIS WEEK
 ** TODO Talk to MB Future                                               :phd:
