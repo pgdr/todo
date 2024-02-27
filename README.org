@@ -3,7 +3,6 @@
 * TODAY
 ** DONE Talk with LV about dune                                       :admin:
 ** DONE Meet reg tysnes                                                 :pop:
-** TODO Announcement for Echo contest                                   :237:
 ** TODO Prepare talk lo                                                 :pop:
 ** TODO Discuss with MB IDI                                             :237:
 ** TODO Meet MB                                                   :237:r:phd:
@@ -11,7 +10,9 @@
 ** TODO Grading 234 resit                                               :234:
 * TOMORROW
 ** TODO Order dune                                                    :admin:
+** TODO Lecture 237                                                     :237:
 ** TODO Meet with EH                                                 :master:
+** TODO Announcement for Echo contest                                   :237:
 * THIS WEEK
 ** TODO Prepare 237 oral round 1                                        :237:
 * NEXT WEEK
