@@ -11,6 +11,7 @@
 ** TODO Lecture 237                                                     :237:
 ** TODO Meet with EH                                                 :master:
 ** TODO Announcement for Echo contest                                   :237:
+** TODO Reply BS with planning for June                             :r:admin:
 * THIS WEEK
 ** TODO Prepare 237 oral round 1                                        :237:
 * NEXT WEEK
