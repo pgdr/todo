@@ -8,7 +8,7 @@
 ** DONE Discuss with SS Echo contest                                    :237:
 ** TODO Prepare talk lo                                                 :pop:
 ** TODO Discuss with MB IDI                                             :237:
-** TODO Update slides 237
+** TODO Update slides 237                                               :237:
 *** Add num zeros to sqrt decom
 *** Add range update to sqrt decom
 *** Add `mode` not doable: honorable mention: Mo's algo
