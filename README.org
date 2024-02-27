@@ -12,6 +12,7 @@
 ** TODO Meet with EH                                                 :master:
 ** TODO Announcement for Echo contest                                   :237:
 ** TODO Reply BS with planning for June                             :r:admin:
+** TODO swat assign missing reviews                                      :pc:
 * THIS WEEK
 ** TODO Prepare 237 oral round 1                                        :237:
 * NEXT WEEK
