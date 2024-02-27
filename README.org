@@ -18,6 +18,8 @@
 ** TODO Write contract for energy AI                                  :admin:
 ** TODO SNL Algorithm                                                   :snl:
 ** TODO SNL Sortering                                                   :snl:
+** TODO SNL stifinning                                                  :snl:
+** TODO SNL Datastruktur                                                :snl:
 ** TODO Research inspection                                               :r:
 ** TODO Read CSC'23                                                   :admin:
 ** TODO Prepare problem for JRS and 319                            :bachelor:
