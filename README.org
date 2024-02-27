@@ -9,13 +9,13 @@
 *** Add range update to sqrt decom
 *** Add `mode` not doable: honorable mention: Mo's algo
 *** Add `max` and num times it appears
-* TOMORROW
 ** TODO Meet reg tysnes                                                 :pop:
 ** TODO Meet MB                                                   :237:r:phd:
 ** TODO Talk to MB Future                                               :phd:
 ** TODO Meet with EH                                                 :master:
 ** TODO Grading 234 resit                                               :234:
 ** TODO Prepare 237 lecture 6                                           :237:
+* TOMORROW
 * THIS WEEK
 ** TODO Prepare 237 oral round 1                                        :237:
 * NEXT WEEK
