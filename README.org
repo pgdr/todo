@@ -30,6 +30,7 @@
 ** TODO Prepare talk nbek   04-17                                       :pop:
 ** TODO Prepare 237 oral round 2                                        :237:
 ** TODO Announce phd position                                     :phd:admin:
+** TODO Complexity measures journal version                               :r:
 * NEXT YEAR
 * Master students
 ** 2024
