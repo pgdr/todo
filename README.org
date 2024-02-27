@@ -35,6 +35,7 @@
 ** TODO Harmless journal version                                          :r:
 ** TODO Complexity measures journal version                               :r:
 ** TODO OCT @ Vertex Splitting                                            :r:
+** TODO TPe + vs                                                          :r:
 * NEXT YEAR
 * Master students
 ** 2024
