@@ -1,8 +1,6 @@
 * YESTERDAY!
 ** TODO Review Algorithmica                                          :review:
 * TODAY
-** DONE Talk with LV about dune                                       :admin:
-** DONE Meet reg tysnes                                                 :pop:
 ** TODO Prepare talk lo                                                 :pop:
 ** TODO Discuss with MB IDI                                             :237:
 ** TODO Meet MB                                                   :237:r:phd:
@@ -41,3 +39,6 @@
 ** 2025
 *** TB
 *** MR
+* Master projects/319
+** Modular decomposition
+** Algebraic paths
