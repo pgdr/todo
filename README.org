@@ -1,18 +1,17 @@
 * YESTERDAY!
 ** TODO Review Algorithmica                                          :review:
 * TODAY
-** DONE Discuss with SS Echo contest                                    :237:
-** DONE Update slides 237                                               :237:
-** DONE Prepare 237 lecture 6                                           :237:
+** DONE Talk with LV about dune                                       :admin:
+** DONE Meet reg tysnes                                                 :pop:
+** TODO Announcement for Echo contest                                   :237:
 ** TODO Prepare talk lo                                                 :pop:
 ** TODO Discuss with MB IDI                                             :237:
-** TODO Meet reg tysnes                                                 :pop:
 ** TODO Meet MB                                                   :237:r:phd:
 ** TODO Talk to MB Future                                               :phd:
-** TODO Meet with EH                                                 :master:
 ** TODO Grading 234 resit                                               :234:
-** DONE Talk with LV about dune                                       :admin:
 * TOMORROW
+** TODO Order dune                                                    :admin:
+** TODO Meet with EH                                                 :master:
 * THIS WEEK
 ** TODO Prepare 237 oral round 1                                        :237:
 * NEXT WEEK
