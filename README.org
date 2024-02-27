@@ -34,6 +34,7 @@
 ** TODO Announce phd position                                     :phd:admin:
 ** TODO Harmless journal version                                          :r:
 ** TODO Complexity measures journal version                               :r:
+** TODO OCT @ Vertex Splitting                                            :r:
 * NEXT YEAR
 * Master students
 ** 2024
