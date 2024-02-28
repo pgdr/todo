@@ -7,12 +7,12 @@
 ** TODO Meet MB                                                   :237:r:phd:
 ** TODO Talk to MB Future                                               :phd:
 ** TODO Grading 234 resit                                               :234:
-* TOMORROW
 ** TODO Order dune                                                    :admin:
 ** TODO Lecture 237                                                     :237:
 ** TODO Announcement for Echo contest                                   :237:
-** TODO Reply BS with planning for June                             :r:admin:
+** DONE Reply BS with planning for June                             :r:admin:
 ** TODO swat assign missing reviews                                      :pc:
+* TOMORROW
 * THIS WEEK
 ** TODO Prepare 237 oral round 1                                        :237:
 * NEXT WEEK
