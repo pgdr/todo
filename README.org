@@ -2,6 +2,7 @@
 ** TODO Review Algorithmica                                          :review:
 * TODAY
 ** DONE Meet with EH                                                 :master:
+** TODO Reply BS with planning for June                             :r:admin:
 ** TODO Prepare talk lo                                                 :pop:
 ** TODO Discuss with MB IDI                                             :237:
 ** TODO Meet MB                                                   :237:r:phd:
@@ -10,7 +11,6 @@
 ** TODO Order dune                                                    :admin:
 ** TODO Lecture 237                                                     :237:
 ** TODO Announcement for Echo contest                                   :237:
-** DONE Reply BS with planning for June                             :r:admin:
 ** TODO swat assign missing reviews                                      :pc:
 * TOMORROW
 * THIS WEEK
