@@ -11,6 +11,7 @@
 ** TODO Prepare geometry 237                                            :237:
 ** TODO swat assign missing reviews                                      :pc:
 * TOMORROW
+** TODO Ring minde bil                                                 :priv:
 * THIS WEEK
 ** TODO Prepare 237 oral round 1                                        :237:
 * NEXT WEEK
