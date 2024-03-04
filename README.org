@@ -26,11 +26,11 @@
 ** TODO Prepare talk tysnes 03-14                                       :pop:
 ** TODO Prepare talk itv    03-19                                       :pop:
 ** TODO Prepare talk it-uib 03-19                                       :pop:
-** TODO Decide on FCT                                                 :admin:
-* NEXT MONTH
 ** TODO Prepare talk uit    04-04                                       :pop:
 ** TODO Prepare talk nbek   04-17                                       :pop:
+** TODO Decide on FCT                                                 :admin:
 ** TODO Prepare 237 oral round 2                                        :237:
+* NEXT MONTH
 ** TODO Announce phd position                                     :phd:admin:
 ** TODO Harmless journal version                                          :r:
 ** TODO Complexity measures journal version                               :r:
