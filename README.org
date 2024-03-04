@@ -1,14 +1,14 @@
 * YESTERDAY!
 ** TODO Review Algorithmica                                          :review:
 * TODAY
+** TODO Meet MR                                                      :master:
+** TODO MEET VD                                                      :master:
 ** TODO Reply BS with planning for June                             :r:admin:
 ** TODO Prepare talk lo                                                 :pop:
 ** TODO Meet MB                                                   :237:r:phd:
 ** TODO Talk to MB Future                                               :phd:
 ** TODO Grading 234 resit                                               :234:
-** TODO Order dune                                                    :admin:
 ** TODO Lecture 237                                                     :237:
-** TODO Announcement for Echo contest                                   :237:
 ** TODO swat assign missing reviews                                      :pc:
 * TOMORROW
 * THIS WEEK
