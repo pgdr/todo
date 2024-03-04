@@ -2,7 +2,7 @@
 ** TODO Review Algorithmica                                          :review:
 * TODAY
 ** DONE Meet MR                                                      :master:
-** TODO Meet VD                                                      :master:
+** DONE Meet VD                                                      :master:
 ** TODO Reply BS with planning for June                             :r:admin:
 ** TODO Prepare talk lo                                                 :pop:
 ** TODO Meet MB                                                   :237:r:phd:
