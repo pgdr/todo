@@ -36,6 +36,8 @@
 ** TODO Complexity measures journal version                               :r:
 ** TODO OCT @ Vertex Splitting                                            :r:
 ** TODO TPe + vs                                                          :r:
+* NEXT SEMESTER
+** TODO Prepare talk for U3A senior                                     :pop:
 * NEXT YEAR
 * Master students
 ** 2024
