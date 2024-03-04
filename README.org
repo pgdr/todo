@@ -1,10 +1,8 @@
 * YESTERDAY!
 ** TODO Review Algorithmica                                          :review:
 * TODAY
-** DONE Meet with EH                                                 :master:
 ** TODO Reply BS with planning for June                             :r:admin:
 ** TODO Prepare talk lo                                                 :pop:
-** DONE Discuss with MB IDI                                             :237:
 ** TODO Meet MB                                                   :237:r:phd:
 ** TODO Talk to MB Future                                               :phd:
 ** TODO Grading 234 resit                                               :234:
