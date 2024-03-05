@@ -1,15 +1,15 @@
 * YESTERDAY!
 ** TODO Review Algorithmica                                          :review:
 * TODAY
-** TODO Reply BS with planning for June                             :r:admin:
-** TODO Prepare talk lo                                                 :pop:
 ** DONE Meet MB                                                   :237:r:phd:
 ** DONE Talk to MB Future                                               :phd:
-** TODO Grading 234 resit                                               :234:
-** DONE Prepare geometry 237                                            :237:
 ** DONE Create railway graph                                         :master:
-** TODO swat assign missing reviews                                      :pc:
+** TODO Prepare geometry 237                                            :237:
+** TODO Prepare talk lo                                                 :pop:
 * TOMORROW
+** TODO Reply BS with planning for June                             :r:admin:
+** TODO swat assign missing reviews                                      :pc:
+** TODO Grading 234 resit                                               :234:
 ** TODO Ring minde bil                                                 :priv:
 * THIS WEEK
 ** TODO Prepare 237 oral round 1                                        :237:
