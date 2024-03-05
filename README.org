@@ -7,6 +7,7 @@
 ** DONE Talk to MB Future                                               :phd:
 ** TODO Grading 234 resit                                               :234:
 ** DONE Prepare geometry 237                                            :237:
+** DONE Create railway graph                                         :master:
 ** TODO swat assign missing reviews                                      :pc:
 * TOMORROW
 ** TODO Ring minde bil                                                 :priv:
