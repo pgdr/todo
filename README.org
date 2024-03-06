@@ -1,11 +1,8 @@
 * YESTERDAY!
 ** TODO Review Algorithmica                                          :review:
 * TODAY
-** DONE Meet MB                                                   :237:r:phd:
-** DONE Talk to MB Future                                               :phd:
-** DONE Create railway graph                                         :master:
-** TODO Add cp-geo to file storage                                      :237:
-** TODO Prepare geometry 237                                            :237:
+** DONE Add cp-geo to file storage                                      :237:
+** DONE Prepare geometry 237                                            :237:
 ** TODO Prepare talk lo                                                 :pop:
 * TOMORROW
 ** TODO Reply FAK with planning for summer                            :admin:
