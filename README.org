@@ -4,6 +4,7 @@
 ** DONE Meet MB                                                   :237:r:phd:
 ** DONE Talk to MB Future                                               :phd:
 ** DONE Create railway graph                                         :master:
+** TODO Add cp-geo to file storage                                      :237:
 ** TODO Prepare geometry 237                                            :237:
 ** TODO Prepare talk lo                                                 :pop:
 * TOMORROW
