@@ -50,3 +50,4 @@
 ** Modular decomposition
 ** Algebraic paths
 ** Faces of straight-line embedding
+** Spring layout on communities
