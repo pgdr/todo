@@ -49,3 +49,4 @@
 * Master projects/319                                            :master:319:
 ** Modular decomposition
 ** Algebraic paths
+** Faces of straight-line embedding
