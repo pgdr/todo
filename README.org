@@ -3,7 +3,7 @@
 * TODAY
 ** DONE Add cp-geo to file storage                                      :237:
 ** DONE Prepare geometry 237                                            :237:
-** TODO Prepare talk lo                                                 :pop:
+** DONE Prepare talk lo                                                 :pop:
 * TOMORROW
 ** TODO Reply FAK with planning for summer                            :admin:
 ** TODO Reply BS with planning for June                             :r:admin:
