@@ -3,13 +3,12 @@
 * TODAY
 ** TODO Reply FAK with planning for summer                            :admin:
 ** TODO Reply BS with planning for June                             :r:admin:
-** TODO swat assign missing reviews                                      :pc:
 ** TODO Grading 234 resit                                               :234:
 * TOMORROW
 ** TODO Ring minde bil                                                 :priv:
-* THIS WEEK
 ** TODO Prepare 237 oral round 1                                        :237:
-* NEXT WEEK
+** TODO Prepare talk tysnes 03-14                                       :pop:
+* THIS WEEK
 ** TODO Organize reviews for swat                                 :pc:review:
 ** TODO Write contract for energy AI                                  :admin:
 ** TODO SNL Algorithm                                                   :snl:
@@ -19,7 +18,7 @@
 ** TODO Research inspection                                               :r:
 ** TODO Read CSC'23                                                   :admin:
 ** TODO Prepare problem for JRS and 319                            :bachelor:
-** TODO Prepare talk tysnes 03-14                                       :pop:
+* NEXT WEEK
 ** TODO Prepare talk itv    03-19                                       :pop:
 ** TODO Prepare talk it-uib 03-19                                       :pop:
 ** TODO Prepare talk uit    04-04                                       :pop:
