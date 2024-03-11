@@ -21,6 +21,7 @@
 * NEXT WEEK
 ** TODO Prepare talk itv    03-19                                       :pop:
 ** TODO Prepare talk it-uib 03-19                                       :pop:
+** TODO Prepare talk ap     03-20                                       :pop:
 ** TODO Prepare talk uit    04-04                                       :pop:
 ** TODO Prepare talk nbek   04-17                                       :pop:
 ** TODO Decide on FCT                                                 :admin:
