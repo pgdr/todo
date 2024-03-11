@@ -4,6 +4,8 @@
 ** TODO Reply FAK with planning for summer                            :admin:
 ** TODO Reply BS with planning for June                             :r:admin:
 ** TODO Grading 234 resit                                               :234:
+** DONE Work on the book                                                  :r:
+** TODO Prepare 237 exp time                                            :237:
 * TOMORROW
 ** TODO Ring minde bil                                                 :priv:
 ** TODO Prepare 237 oral round 1                                        :237:
