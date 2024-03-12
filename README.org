@@ -7,10 +7,10 @@
 ** DONE Work on the book                                                  :r:
 ** TODO Prepare 237 exp time                                            :237:
 ** TODO Review swat papers                                             :pc:r:
+** TODO Prepare talk tysnes 03-14                                       :pop:
 * TOMORROW
 ** TODO Ring minde bil                                                 :priv:
 ** TODO Prepare 237 oral round 1                                        :237:
-** TODO Prepare talk tysnes 03-14                                       :pop:
 * THIS WEEK
 ** TODO Organize reviews for swat                                 :pc:review:
 ** TODO Write contract for energy AI                                  :admin:
