@@ -1,10 +1,10 @@
 * YESTERDAY!
 ** TODO Review Algorithmica                                          :review:
 * TODAY
+** DONE Work on the book                                                  :r:
 ** TODO Reply FAK with planning for summer                            :admin:
 ** TODO Reply BS with planning for June                             :r:admin:
 ** TODO Grading 234 resit                                               :234:
-** DONE Work on the book                                                  :r:
 ** TODO Prepare 237 exp time                                            :237:
 ** TODO Review swat papers                                             :pc:r:
 ** TODO Prepare talk tysnes 03-14                                       :pop:
@@ -13,6 +13,7 @@
 ** TODO Prepare 237 oral round 1                                        :237:
 * THIS WEEK
 ** TODO Organize reviews for swat                                 :pc:review:
+** TODO tak vinterhage                                                 :priv:
 ** TODO Write contract for energy AI                                  :admin:
 ** TODO SNL Algorithm                                                   :snl:
 ** TODO SNL Sortering                                                   :snl:
