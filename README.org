@@ -6,7 +6,8 @@
 ** TODO Reply BS with planning for June                             :r:admin:
 ** TODO Grading 234 resit                                               :234:
 ** TODO Prepare 237 exp time                                            :237:
-** TODO Review swat papers                                             :pc:r:
+** DONE Review swat papers                                             :pc:r:
+** TODO Complete SWAT reviews                                          :pc:r:
 ** TODO Prepare talk tysnes 03-14                                       :pop:
 * TOMORROW
 ** TODO Ring minde bil                                                 :priv:
