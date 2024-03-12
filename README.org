@@ -6,6 +6,7 @@
 ** TODO Grading 234 resit                                               :234:
 ** DONE Work on the book                                                  :r:
 ** TODO Prepare 237 exp time                                            :237:
+** TODO Review swat papers                                             :pc:r:
 * TOMORROW
 ** TODO Ring minde bil                                                 :priv:
 ** TODO Prepare 237 oral round 1                                        :237:
