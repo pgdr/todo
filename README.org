@@ -6,10 +6,10 @@
 ** TODO Prepare talk it-uib 03-19                                       :pop:
 ** TODO Prepare talk ap     03-20                                       :pop:
 * TOMORROW
-** TODO Prepare 237 oral round 1                                        :237:
-** TODO Ring minde bil                                                 :priv:
 * THIS WEEK
 * NEXT WEEK
+** TODO Prepare 237 oral round 1                                        :237:
+** TODO Ring minde bil                                                 :priv:
 ** TODO Reply BS with planning for June                             :r:admin:
 ** TODO Implement genetic alg for crossing                    :r:master:pace:
 ** TODO Write contract for energy AI                                  :admin:
