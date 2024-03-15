@@ -8,24 +8,24 @@
 ** TODO Ring minde bil                                                 :priv:
 ** TODO Prepare 237 oral round 1                                        :237:
 * THIS WEEK
-** TODO tak vinterhage                                                 :priv:
 ** TODO Write contract for energy AI                                  :admin:
 ** TODO SNL Algorithm                                                   :snl:
 ** TODO SNL Sortering                                                   :snl:
 ** TODO SNL stifinning                                                  :snl:
 ** TODO SNL Datastruktur                                                :snl:
-** TODO Research inspection                                               :r:
-** TODO Read CSC'23                                                   :admin:
-** TODO Prepare problem for JRS and 319                            :bachelor:
-* NEXT WEEK
 ** TODO Prepare talk itv    03-19                                       :pop:
 ** TODO Prepare talk it-uib 03-19                                       :pop:
 ** TODO Prepare talk ap     03-20                                       :pop:
+* NEXT WEEK
+** TODO tak vinterhage                                                 :priv:
 ** TODO Prepare talk uit    04-04                                       :pop:
 ** TODO Prepare talk nbek   04-17                                       :pop:
 ** TODO Decide on FCT                                                 :admin:
 ** TODO Prepare 237 oral round 2                                        :237:
 * NEXT MONTH
+** TODO Research inspection                                               :r:
+** TODO Read CSC'23                                                   :admin:
+** TODO Prepare problem for JRS and 319                            :bachelor:
 ** TODO Announce phd position                                     :phd:admin:
 ** TODO Harmless journal version                                          :r:
 ** TODO Complexity measures journal version                               :r:
