@@ -4,7 +4,7 @@
 ** TODO Reply FAK with planning for summer                            :admin:
 ** TODO Reply BS with planning for June                             :r:admin:
 ** TODO Grading 234 resit                                               :234:
-** TODO Prepare 237 exp time                                            :237:
+** DONE Prepare 237 exp time                                            :237:
 ** DONE Complete SWAT reviews                                          :pc:r:
 ** DONE Prepare talk tysnes 03-14                                       :pop:
 * TOMORROW
