@@ -10,6 +10,7 @@
 ** TODO Prepare 237 oral round 1                                        :237:
 ** TODO Ring minde bil                                                 :priv:
 * THIS WEEK
+** TODO Implement genetic alg for crossing                    :r:master:pace:
 ** TODO Write contract for energy AI                                  :admin:
 ** TODO SNL Algorithm                                                   :snl:
 ** TODO SNL Sortering                                                   :snl:
