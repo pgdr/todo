@@ -20,7 +20,7 @@
 ** TODO tak vinterhage                                                 :priv:
 ** TODO Prepare talk uit    04-04                                       :pop:
 ** TODO Prepare talk nbek   04-17                                       :pop:
-** TODO Decide on FCT                                                 :admin:
+** DONE Decide on FCT                                                 :admin:
 ** TODO Prepare 237 oral round 2                                        :237:
 * NEXT MONTH
 ** TODO Research inspection                                               :r:
