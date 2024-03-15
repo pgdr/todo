@@ -11,7 +11,7 @@
 ** TODO Ring minde bil                                                 :priv:
 ** TODO Prepare 237 oral round 1                                        :237:
 * THIS WEEK
-** TODO Organize reviews for swat                                 :pc:review:
+** DONE Organize reviews for swat                                 :pc:review:
 ** TODO tak vinterhage                                                 :priv:
 ** TODO Write contract for energy AI                                  :admin:
 ** TODO SNL Algorithm                                                   :snl:
