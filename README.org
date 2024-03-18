@@ -1,14 +1,14 @@
 * YESTERDAY!
 ** TODO Review Algorithmica                                          :review:
 * TODAY
-** TODO Grading 234 resit                                               :234:
 ** TODO Prepare talk itv    03-19                                       :pop:
 ** TODO Prepare talk it-uib 03-19                                       :pop:
 ** TODO Prepare talk ap     03-20                                       :pop:
 * TOMORROW
 * THIS WEEK
-* NEXT WEEK
 ** TODO Prepare 237 oral round 1                                        :237:
+** TODO Grading 234 resit                                               :234:
+* NEXT WEEK
 ** TODO Ring minde bil                                                 :priv:
 ** TODO Reply BS with planning for June                             :r:admin:
 ** TODO Implement genetic alg for crossing                    :r:master:pace:
