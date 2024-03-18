@@ -18,10 +18,10 @@
 ** TODO SNL stifinning                                                  :snl:
 ** TODO SNL Datastruktur                                                :snl:
 ** TODO tak vinterhage                                                 :priv:
+* NEXT MONTH
+** TODO Prepare 237 oral round 2                                        :237:
 ** TODO Prepare talk uit    04-04                                       :pop:
 ** TODO Prepare talk nbek   04-17                                       :pop:
-** TODO Prepare 237 oral round 2                                        :237:
-* NEXT MONTH
 ** TODO Research inspection                                               :r:
 ** TODO Read CSC'23                                                   :admin:
 ** TODO Prepare problem for JRS and 319                            :bachelor:
