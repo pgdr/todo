@@ -1,9 +1,9 @@
 * YESTERDAY!
 ** TODO Review Algorithmica                                          :review:
 * TODAY
-** TODO Prepare talk itv    03-19                                       :pop:
-** TODO Prepare talk it-uib 03-19                                       :pop:
-** TODO Prepare talk ap     03-20                                       :pop:
+** DONE Prepare talk itv    03-19                                       :pop:
+** DONE Prepare talk it-uib 03-19                                       :pop:
+** DONE Prepare talk ap     03-20                                       :pop:
 * TOMORROW
 * THIS WEEK
 ** TODO Prepare 237 oral round 1                                        :237:
