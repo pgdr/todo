@@ -1,13 +1,10 @@
 * YESTERDAY!
 ** TODO Review Algorithmica                                          :review:
 * TODAY
-** DONE Prepare talk itv    03-19                                       :pop:
-** DONE Prepare talk it-uib 03-19                                       :pop:
-** DONE Prepare talk ap     03-20                                       :pop:
-* TOMORROW
-* THIS WEEK
-** TODO Prepare 237 oral round 1                                        :237:
 ** TODO Grading 234 resit                                               :234:
+* TOMORROW
+** TODO Prepare 237 oral round 1                                        :237:
+* THIS WEEK
 * NEXT WEEK
 ** TODO Ring minde bil                                                 :priv:
 ** TODO Reply BS with planning for June                             :r:admin:
@@ -18,10 +15,10 @@
 ** TODO SNL stifinning                                                  :snl:
 ** TODO SNL Datastruktur                                                :snl:
 ** TODO tak vinterhage                                                 :priv:
-* NEXT MONTH
-** TODO Prepare 237 oral round 2                                        :237:
 ** TODO Prepare talk uit    04-04                                       :pop:
 ** TODO Prepare talk nbek   04-17                                       :pop:
+* NEXT MONTH
+** TODO Prepare 237 oral round 2                                        :237:
 ** TODO Research inspection                                               :r:
 ** TODO Read CSC'23                                                   :admin:
 ** TODO Prepare problem for JRS and 319                            :bachelor:
