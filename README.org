@@ -2,7 +2,7 @@
 ** TODO Review Algorithmica                                          :review:
 * TODAY
 ** TODO Grading 234 resit                                               :234:
-** TODO SWAT Voting round                                              :r:pc:
+** DONE SWAT Voting round                                              :r:pc:
 * TOMORROW
 ** TODO Prepare 237 oral round 1                                        :237:
 * THIS WEEK
