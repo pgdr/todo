@@ -2,7 +2,7 @@
 ** TODO Review Algorithmica                                          :review:
 * TODAY
 ** TODO Grading 234 resit                                               :234:
-** TODO Reply SA with comdet stuff                                   :master:
+** DONE Reply SA with comdet stuff                                   :master:
 * TOMORROW
 ** TODO Prepare 237 oral round 1                                        :237:
 * THIS WEEK
