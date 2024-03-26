@@ -4,6 +4,7 @@
 * TOMORROW
 ** TODO Prepare 237 oral round 1                                        :237:
 * THIS WEEK
+** TODO Prepare Tromsø trip                                       :pop:admin:
 * NEXT WEEK
 ** TODO Prepare talk uit    04-04                                       :pop:
 ** TODO Ring minde bil                                                 :priv:
