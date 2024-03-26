@@ -2,6 +2,7 @@
 ** TODO Review Algorithmica                                          :review:
 * TODAY
 ** DONE Grading 234 resit                                               :234:
+** TODO Enter 234 CA scores                                             :234:
 ** DONE Reply SA with comdet stuff                                   :master:
 * TOMORROW
 ** TODO Prepare 237 oral round 1                                        :237:
