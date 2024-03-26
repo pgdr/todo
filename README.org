@@ -4,6 +4,7 @@
 * TOMORROW
 ** TODO Prepare 237 oral round 1                                        :237:
 ** TODO Reimburse idi open                                            :admin:
+** TODO Lit rev for inspection planning                                   :r:
 * THIS WEEK
 ** TODO Prepare Tromsø trip                                       :pop:admin:
 * NEXT WEEK
